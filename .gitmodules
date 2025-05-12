@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = anjubao-parksys-server
+	url = https://github.com/Sill-William/anjubao-parksys-server.git
+[submodule "client"]
+	path = anjubao-parksys-client-app
+	url = https://github.com/Sill-William/anjubao-parksys-client-app.git
